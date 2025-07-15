@@ -1,4 +1,4 @@
-<p align="center"><a href="https://Bhawanga.github.io"><img width="80%" alt="Hello, I'm Bhawanga Rajapaksha!" src="./assets/gh-readme-header.png" /></a></p>
+<h1 align="center">Hi 👋, I'm Bhawanga Rajapaksha</h1>
 
 <h3 align="center">👨‍💻Computer Science Undergrad | Cybersecurity Enthusiast |passionate about code &Innovation 👾🇱🇰</h3>
 
