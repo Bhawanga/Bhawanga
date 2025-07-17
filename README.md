@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Bhawanga Rajapaksha</h1>
+### <h1 align="center">Hi 👋, I'm Bhawanga Rajapaksha</h1>
 
-<h3 align="center">👨‍💻Computer Science Undergrad | Cybersecurity Enthusiast |passionate about code &Innovation 👾🇱🇰</h3>
+### <h3 align="center">👨‍💻Computer Science Undergrad | Cybersecurity Enthusiast |passionate about code &Innovation 👾🇱🇰</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhawanga&label=Profile%20views&color=0e75b6&style=flat" alt="bhawanga" /> </p>
 
